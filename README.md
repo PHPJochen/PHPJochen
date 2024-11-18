@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @PHPJochen
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on PHP
-- 📫 How to reach me PHP
+- 👋 Hi, I’m Ioachim Dusa
+- 📫 How to reach me igd27@cam.ac.uk
 
 <!---
 PHPJochen/PHPJochen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
